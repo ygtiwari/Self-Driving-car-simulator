@@ -69,6 +69,6 @@ def run_cnn():
 
     #rest of the code is not written because it is basically just the calling of cross_entropy and optimizer by using with session loop
                        
-    
+    #write the accuracy
     
                          
